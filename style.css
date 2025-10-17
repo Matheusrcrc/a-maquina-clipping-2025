@@ -568,7 +568,7 @@ body {
 
 /* Clipping Section */
 .section-clipping {
-    background-color: white;
+    background: transparent;
 }
 
 .clipping-filters {
@@ -979,7 +979,7 @@ body {
 }
 
 .ficha-section strong {
-    color: var(--cor-secundaria);
+    color: var(--am-gold-soft);
 }
 
 .ficha-realizacao {
